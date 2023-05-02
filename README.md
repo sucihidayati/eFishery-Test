@@ -2,7 +2,7 @@
 
 Project test frontend E-Fishery build with ReactJS, SCSS, React-Data-Table
 
-Link preview: https://fe-test-efishery.vercel.app/
+Link preview: https://e-fishery-test.vercel.app/
 
 ![](/public/capture2.gif)
 
