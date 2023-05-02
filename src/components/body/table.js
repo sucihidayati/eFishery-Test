@@ -122,9 +122,7 @@ const Table = (props) => {
                 handleAlertOpen();
                 setShowAlert(true);
                 setKomoditasValue("");
-                setOptionsArea("");
                 setKotaValue("");
-                setOptionsSize("");
                 setHargaValue("");
                 setInterval(() => {
                     setShowAlert(false);
