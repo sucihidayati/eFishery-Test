@@ -1,0 +1,42 @@
+.section_padding {
+    padding: 4rem 4rem;
+
+}
+
+.footer {
+    background-color: #379477;
+    box-shadow: 100px;
+    position: fixed;
+    Width: 100%;
+    bottom: 0;
+
+}
+
+.sb__footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.sb__footer-below {
+    // display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 0.2rem;
+}
+
+.sb__footer-copyright p {
+    font-size: 20px;
+    line-height: 15px;
+    color: white;
+    font-weight: 600;
+}
+
+
+@media screen and (max-width:550px) {
+    .sb__footer-below {
+        // flex-direction: column;
+        justify-content: center;
+        padding: 0.5rem;
+
+    }
+}
